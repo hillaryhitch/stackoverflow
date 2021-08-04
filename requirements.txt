@@ -1,0 +1,7 @@
+requests
+flask
+numpy
+Pandas
+sklearn
+xgboost
+
